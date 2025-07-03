@@ -12,11 +12,11 @@ Node.js (version 18 or later)
 
 An IDE such as IntelliJ Community Edition or Ultimate Edition (ideally the latest version)
 
-an OpenAI API KEY to get [here]( https://ctxt.io/2/AAB4vv0pEA)
+an OpenAI API KEY to get [here](https://ctxt.io/2/AAD4sM0fFA)
 
 General guideline
 
-This lab guide relies on the examples seen in the [slides] (https://docs.google.com/presentation/d/1c7qB-nLaqTAZbm62Sd5AhUxfQfNpKlFsF-q-EKJJZHg/edit?usp=sharing).
+This lab guide relies on the examples seen in the [slides] (https://docs.google.com/presentation/d/1CQWzOuEiAtB-MH2s0J-Ve3MMRM3ufU5kllTh6QBJ1tg/edit?slide=id.g36c85143bec_0_0#slide=id.g36c85143bec_0_0).
 In order to have all the information you need, you should have the lab instructions and the slides side by side, so you can refer to the examples seen in the slides at any time.
 
 
